@@ -24,7 +24,7 @@ The AText Editor offers features like:
 - Word wrap
 
 - Change the font color to standard color or custom colors
-- Change the font to 25+ collections of Fo
+- Change the font to 25+ collections of Font
 - Change the font size 5-90
 - Change the background of text (And save it as well). 
 
